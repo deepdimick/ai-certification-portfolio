@@ -32,7 +32,7 @@ The Fashion MNIST dataset is automatically downloaded on first run via PyTorch's
 
 ### Run
 
-Open `FashionMNISTProject-Complete_2.ipynb` in Jupyter and execute all cells sequentially.
+Open `fashion_mnist_classification.ipynb` in Jupyter and execute all cells sequentially.
 
 ## Model Architecture
 
