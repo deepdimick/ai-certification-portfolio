@@ -36,7 +36,7 @@ The project uses the [Waste Classification Dataset](https://www.kaggle.com/datas
 
 ### Run
 
-Open `Final_Proj-Classify_Waste_Products_Using_TL_FT.ipynb` in Jupyter and run all cells.
+Open `transfer_learning_waste_classification.ipynb` in Jupyter and run all cells.
 
 ## Model Architecture
 
