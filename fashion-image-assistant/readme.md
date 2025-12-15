@@ -97,5 +97,5 @@ MIT
 
 ## Acknowledgments
 
-- Project completed as part of IBM AI Engineering Professional Certificate
+- Project completed as part of IBM Advanced RAG & Agentic AI certification
 - Models: ResNet50 (PyTorch), Llama 3.2 Vision (Meta)
